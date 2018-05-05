@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "24411564465",
+    "firebase_url": "https://thevulgaritytest-2655d.firebaseio.com",
+    "project_id": "thevulgaritytest-2655d",
+    "storage_bucket": "thevulgaritytest-2655d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24411564465:android:4565de9e9bc309fb",
+        "android_client_info": {
+          "package_name": "allaber.com.thevulgaritytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24411564465-vsuss1iptcr7082q2skdc8f0jp7lck31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allaber.com.thevulgaritytest",
+            "certificate_hash": "0df79c0db0808c7e9b6cf2fa6a2161c7741b5acd"
+          }
+        },
+        {
+          "client_id": "24411564465-ot3ii28ifqiv76ipb0vj0u5spssqgogf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVGhJBNpcZcUwp39SW8t9n0pAFSsAyzo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24411564465-ot3ii28ifqiv76ipb0vj0u5spssqgogf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
